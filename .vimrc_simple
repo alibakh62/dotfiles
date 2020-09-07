@@ -1,0 +1,15 @@
+set nocompatible
+set ai
+set ruler
+set number
+syntax on
+set colorcolumn=80
+filetype plugin on
+colorscheme onedark
+set hlsearch
+set incsearch
+set laststatus=2
+set showmatch
+set showmode
+set history=100
+set backspace=2
